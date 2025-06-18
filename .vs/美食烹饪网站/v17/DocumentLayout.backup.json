@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|d:\\microsoft visual studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\myself.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:myself.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|d:\\microsoft visual studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\myself.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:myself.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|d:\\microsoft visual studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\search.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:search.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|d:\\microsoft visual studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\recipedetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:recipedetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|d:\\microsoft visual studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\kljc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:kljc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\gd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:gd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\gbjd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:gbjd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\zzp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:zzp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\results.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:results.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E6C6AD19-23F3-462A-A30D-D9B5C5815335}|D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Myself.aspx.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Myself.aspx.cs",
+              "RelativeDocumentMoniker": "Myself.aspx.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Myself.aspx.cs",
+              "RelativeToolTip": "Myself.aspx.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:16:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Myself.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Myself.aspx",
+              "RelativeDocumentMoniker": "Myself.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Myself.aspx",
+              "RelativeToolTip": "Myself.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:55:54.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kljc.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\kljc.aspx",
+              "RelativeDocumentMoniker": "kljc.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\kljc.aspx",
+              "RelativeToolTip": "kljc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:39:32.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:46:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:34:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecipeDetail.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\RecipeDetail.aspx",
+              "RelativeDocumentMoniker": "RecipeDetail.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\RecipeDetail.aspx",
+              "RelativeToolTip": "RecipeDetail.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:48:17.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Register.aspx.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Register.aspx.cs",
+              "RelativeToolTip": "Register.aspx.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:14:03.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.aspx.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Search.aspx.cs",
+              "RelativeDocumentMoniker": "Search.aspx.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Search.aspx.cs",
+              "RelativeToolTip": "Search.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:45:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:22:26.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gd.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\gd.aspx",
+              "RelativeDocumentMoniker": "gd.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\gd.aspx",
+              "RelativeToolTip": "gd.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:40:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gbjd.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\gbjd.aspx",
+              "RelativeDocumentMoniker": "gbjd.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\gbjd.aspx",
+              "RelativeToolTip": "gbjd.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:38:24.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:12:44.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Search.aspx",
+              "RelativeDocumentMoniker": "Search.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\Search.aspx",
+              "RelativeToolTip": "Search.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:12:44.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\MasterPage.master",
+              "RelativeDocumentMoniker": "MasterPage.master",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\MasterPage.master",
+              "RelativeToolTip": "MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T11:06:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "zzp.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\zzp.aspx",
+              "RelativeDocumentMoniker": "zzp.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\zzp.aspx",
+              "RelativeToolTip": "zzp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:39:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "results.aspx",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\results.aspx",
+              "RelativeDocumentMoniker": "results.aspx",
+              "ToolTip": "D:\\Microsoft Visual Studio\\\u9879\u76EE\\\u7F8E\u98DF\u70F9\u996A\u7F51\u7AD9\\results.aspx",
+              "RelativeToolTip": "results.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:55:18.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>小猫烹饪</title>
+    <style>
+        body {
+            font-family: "Microsoft YaHei", sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            align-items: center;
+            justify-content: center;
+            height:180px;
+        }
+        .col-left{
+            width:390px;
+            height:180px;
+            float:left;
+        }
+        .col-right {
+            height:180px;
+        }
+        .top-row{
+            height:125px;
+        }
+        .bottom-row{
+            height:55px;
+        }
+        .bottom-row a{
+            color: black;
+            line-height:55px;
+            margin-left: 90px;
+            margin-right: 90px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size:25px;
+            background-color:antiquewhite;
+        }
+        .bottom-row a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 20px;
+        }
+        .footer {
+            background-color: #eee;
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 14px;
+            color: #555;
+            clear:both;
+            width:1600px;
+        }
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="navbar">
+            <div class="col-left"><img src="img/小猫烹饪.png" style="height: 180px; width: 390px;"/></div>
+            <div class="col-right">
+                <div class="top-row"><img src="img/导航栏.png" style="height: 125px; width: 1195px"/></div>
+                <div class="bottom-row">
+                    <a href="Default.aspx">首页</a>
+                    <a href="Login.aspx">登录</a>
+                    <a href="Register.aspx">注册</a>
+                    <a href="Search.aspx">搜索</a>
+                    <a href="Myself.aspx">我</a>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            © 2025 小猫烹饪 | 联系我们：xiaomao@cook.com
+        </div>
+    </div>
+    </form>
+</body>
+</html>
